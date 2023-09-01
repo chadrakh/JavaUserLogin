@@ -1,4 +1,4 @@
-package com.application.userlogin.user;
+package com.application.userlogin.domain;
 
 public enum UserType {
     ADMIN,
