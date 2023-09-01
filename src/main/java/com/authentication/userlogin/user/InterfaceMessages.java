@@ -1,3 +1,5 @@
+package com.authentication.userlogin.user;
+
 public class InterfaceMessages {
 
     public void actions() {

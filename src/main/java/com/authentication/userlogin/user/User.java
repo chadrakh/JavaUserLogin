@@ -1,3 +1,5 @@
+package com.authentication.userlogin.model;
+
 public class User {
     private final String USERNAME;
     private final String PASSWORD;

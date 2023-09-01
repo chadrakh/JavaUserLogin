@@ -1,3 +1,5 @@
+package com.authentication.userlogin.model;
+
 import java.util.Scanner;
 
 public class InputManager {
