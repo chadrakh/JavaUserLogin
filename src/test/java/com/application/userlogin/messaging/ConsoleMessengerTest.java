@@ -1,4 +1,4 @@
-package userlogin;
+package com.application.userlogin.messaging;
 
 import org.junit.jupiter.api.Disabled;
 
