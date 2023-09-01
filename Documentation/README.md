@@ -8,6 +8,6 @@ The aim was to create a scalable application with user authentication and input 
 <br />
 
 #### Class Diagram
-![img.png](img.png)
+![Application UML Diagram](Documentation/Resources/ApplicationUML.png)
 
 <br />

@@ -1,8 +1,8 @@
-package com.authentication.userlogin;
+package userlogin;
 
 import org.junit.jupiter.api.Disabled;
 
-public class ConsoleMessengerTest {
+public class UserHandlerTest {
     @Disabled
     @org.junit.jupiter.api.Test
     public void check() {

@@ -1,4 +1,4 @@
-package com.authentication.userlogin.user;
+package com.application.userlogin.messaging;
 
 public class InterfaceMessages {
 
