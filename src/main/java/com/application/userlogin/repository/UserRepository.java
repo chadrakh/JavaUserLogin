@@ -1,2 +1,4 @@
-package com.application.userlogin.repository;public class UserRepository {
+package com.application.userlogin.repository;
+
+public interface UserRepository {
 }
