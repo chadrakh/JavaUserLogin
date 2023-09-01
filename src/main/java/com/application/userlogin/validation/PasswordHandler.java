@@ -1,2 +1,4 @@
-package com.application.userlogin.validation;public class PasswordHandler {
+package com.application.userlogin.validation;
+
+public class PasswordHandler {
 }
