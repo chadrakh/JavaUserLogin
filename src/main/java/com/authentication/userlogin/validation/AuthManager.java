@@ -1,4 +1,6 @@
-package com.authentication.userlogin.model;
+package com.authentication.userlogin.validation;
+
+import com.authentication.userlogin.user.User;
 
 import java.util.ArrayList;
 import java.util.List;

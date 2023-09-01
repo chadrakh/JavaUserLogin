@@ -1,4 +1,4 @@
-package com.authentication.userlogin.model;
+package com.authentication.userlogin.validation;
 
 import java.util.Scanner;
 

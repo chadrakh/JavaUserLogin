@@ -1,4 +1,4 @@
-package com.authentication.userlogin.model;
+package com.authentication.userlogin.user;
 
 public enum UserType {
     ADMIN,

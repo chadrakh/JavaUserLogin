@@ -1,4 +1,10 @@
-public class LoginApp {
+package com.authentication.userlogin.app;
+
+import com.authentication.userlogin.user.*;
+import com.authentication.userlogin.validation.AuthManager;
+import com.authentication.userlogin.validation.InputManager;
+
+public class Main {
     private static final InterfaceMessages INTERFACE_MESSAGES = new InterfaceMessages();
     private static final InputManager inputManager = new InputManager();
     private static final AuthManager authManager = new AuthManager();
