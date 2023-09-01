@@ -1,6 +1,11 @@
 package com.application.userlogin.validation;
 
-import static org.junit.jupiter.api.Assertions.*;
-class PasswordHandlerTest {
-  
+import org.junit.jupiter.api.Disabled;
+
+public class PasswordHandlerTest {
+    @Disabled
+    @org.junit.jupiter.api.Test
+    public void checkPasswordIsHashed() {
+
+    }
 }
