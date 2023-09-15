@@ -11,3 +11,15 @@ The aim was to create a scalable application with user authentication and input 
 ![Application UML Diagram](Resources/ApplicationUML.png)
 
 <br />
+
+<!--
+#### Example Test Cases
+
+To-Do
+Move logic for login loop
+Add User interface
+Add UserType enumeration
+Create DataHandler (capture and validate methods)
+- Potentially add UserController for data handling?
+
+-->
